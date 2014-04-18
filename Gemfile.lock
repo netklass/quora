@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/huacnlee/htmldiff.git
-  revision: 55286c776862b5c127070a6e56342262dbbe0114
+  remote: git://github.com/netklass/htmldiff.git
+  revision: c3b9112b34e9c37e805068ae3a6a42388666e67e
   specs:
     htmldiff (0.0.1)
 
